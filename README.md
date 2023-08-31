@@ -1,0 +1,2 @@
+# pruebaschatgpt
+Pruebas con textos 
